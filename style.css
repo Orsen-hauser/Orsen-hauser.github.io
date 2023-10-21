@@ -4,11 +4,12 @@ body {
 
 .jumbotron {
   padding-top: 6rem;
-  background-image: linear-gradient(#e15245, #464a86);
+  background-image: linear-gradient(#f74a3b, #131972);
+  text-shadow: 2px 2px #000000;
 }
 
 #projects {
-  background-image: linear-gradient( #454948, #28242c, #454948, #28242c);
+  background-image: linear-gradient(#f74a3b, #131972);
 }
 
 section {
